@@ -1,0 +1,20 @@
+{
+  "id": "org.superflix.stremio",
+  "version": "1.0.0",
+  "name": "SuperFlix Addon",
+  "description": "Add-on do Stremio para integrar conteúdo do SuperFlix",
+  "resources": ["catalog", "stream"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "superflix-movies",
+      "name": "Filmes do SuperFlix"
+    },
+    {
+      "type": "series",
+      "id": "superflix-series",
+      "name": "Séries do SuperFlix"
+    }
+  ]
+}
