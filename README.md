@@ -1,2 +1,2 @@
 # Superflix-stremio-addon.
-Adson superflix, brasil.
+Addon superflix, brasil.
